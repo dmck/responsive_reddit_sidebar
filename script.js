@@ -60,7 +60,15 @@ $( document ).ready(function() {
         }
 
     }
-    $('body').addClass('listing-chooser-collapsed');
+
+	var parser = document.createElement('a');
+	parser.href = window.location.pathname;
+
+	//alert(parser.pathname);
+	if(parser.pathname != "/") {
+		$('body').addClass('listing-chooser-collapsed');
+	}
+
 });
 
 $( window ).resize(function() {
