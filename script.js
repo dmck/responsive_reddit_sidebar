@@ -58,8 +58,9 @@ $( document ).ready(function() {
             showSidebar();
             $('#hslink').text(hideSidebarText);
         }
-    }
 
+    }
+    $('body').addClass('listing-chooser-collapsed');
 });
 
 $( window ).resize(function() {
