@@ -9,8 +9,9 @@
         "https://np.reddit.com/*"
         ]
    } ],
-   "description": "Provides an option to hide the reddit sidebar.",
-   "name": "Reddit Hide Sidebar",
+   "permissions": ["storage"],
+   "description": "Responsively or manually hides Reddit's sidebar.",
+   "name": "Responsive Reddit Sidebar",
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "0.5"
+   "version": "0.6"
 }

@@ -1,5 +1,15 @@
-reddit_hide_sidebar
-===================
+# Responsive Reddit Sidebar
+> Responsively or manually hide Reddit's sidebar.
 
-Hide Sidebar on reddit
-This Google chrome extension hides the right sidebar responsively. A "Show Sidebar" link is displayed to show/hide the sidebar manually, and a 'Lock Sidebar' link is displayed to disable responsiveness.
+![GIF of Extension in use.](https://github.com/dmck/responsive_reddit_sidebar/blob/master/demo.gif)
+
+This Google chrome extension hides the right sidebar when the window is less than 768px. The sidebar can also be toggled manually with the "Show Sidebar" link, or locked in place with the "Lock Sidebar" toggle. 
+
+The left multi-reddit chooser is closed when not on the Front Page.
+
+## Contributors
+Special thanks to Hrishikesh Bakshi who wrote the extension this is based on: reddit_hide_sidebar <https://github.com/hsbakshi/reddit_hide_sidebar>  
+
+
+## License
+GNU General Public License <http://www.gnu.org/licenses/gpl-3.0.en.html>
