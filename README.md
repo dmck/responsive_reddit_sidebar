@@ -1,3 +1,5 @@
+![Icon](https://github.com/dmck/responsive_reddit_sidebar/blob/master/icon.png)
+
 # Responsive Sidebar for Reddit
 > Responsively or manually hide Reddit's sidebar.
 
