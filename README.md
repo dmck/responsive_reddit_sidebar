@@ -1,4 +1,4 @@
-# Responsive Reddit Sidebar
+# Responsive Sidebar for Reddit
 > Responsively or manually hide Reddit's sidebar.
 
 ![GIF of Extension in use.](https://github.com/dmck/responsive_reddit_sidebar/blob/master/demo.gif)
